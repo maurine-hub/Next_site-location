@@ -1,0 +1,39 @@
+{
+
+  "Maisons": [
+    {
+      "id": 1 ,
+      "titre": "maison de campagne",
+      "description": "belle maison avec terasse",
+      "about": {
+        "price": 100,
+        "profil": 2,
+        "created-date": "22-10-2022"
+
+      }
+    },
+    {
+      "id": 2 ,
+      "titre": "maison de campagne",
+      "description": "belle maison avec terasse",
+      "about": {
+        "price": 100,
+        "profil": 2,
+        "created-date": "22-10-2022"
+      }
+    },
+    {
+      "id": 3 ,
+      "titre": "maison de campagne",
+      "description": "belle maison avec terasse",
+      "about": {
+        "price": 100,
+        "profil": 2,
+        "created-date": "22-10-2022"
+      }
+    }
+
+
+  ]
+
+}
